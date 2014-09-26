@@ -45,7 +45,6 @@
 			isa = PBXGroup;
 			children = (
 				FADDCB5A19CE5FF900F29E7F /* Project2_DDoSAttackDectation */,
-				FADDCB5919CE5FF900F29E7F /* Products */,
 			);
 			sourceTree = "<group>";
 		};
@@ -55,6 +54,7 @@
 				FADDCB5819CE5FF900F29E7F /* Project2_DDoSAttackDectation */,
 			);
 			name = Products;
+			path = ..;
 			sourceTree = "<group>";
 		};
 		FADDCB5A19CE5FF900F29E7F /* Project2_DDoSAttackDectation */ = {
@@ -62,6 +62,7 @@
 			children = (
 				FADDCB5B19CE5FF900F29E7F /* main.cpp */,
 				FADDCB5D19CE5FF900F29E7F /* Project2_DDoSAttackDectation.1 */,
+				FADDCB5919CE5FF900F29E7F /* Products */,
 			);
 			path = Project2_DDoSAttackDectation;
 			sourceTree = "<group>";
